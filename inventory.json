@@ -1,0 +1,64 @@
+[
+  {
+    "manufacturer": "Apple",
+    "model": "II+",
+    "serial": "",
+    "description": "48K + language card",
+    "status": "mostly working, occasional ram issues",
+  },
+  
+  {
+    "manufacturer": "Commodore",
+    "model": "VIC 20",
+    "serial": "P1009385",
+    "description": "with 3K and 16K RAM cartridges and Datasette",
+    "status": "working",
+    "references": [""],
+  },
+  
+  {
+    "manufacturer": "Commodore",
+    "model": "64",
+    "serial": "P5864075",
+    "description": "Weird replacement white keyboard",
+    "status": "working",
+    "references": [""],
+  },
+  
+  {
+    "manufacturer": "Commodore",
+    "model": "64C",
+    "serial": "CA1527435",
+    "description": "",
+    "status": "working",
+    "references": [""],
+  },
+
+  {
+    "manufacturer": "Commodore",
+    "model": "16",
+    "serial": "CA1135983",
+    "description": "",
+    "status": "in repair",
+  },
+  
+  {
+    "manufacturer": "Radio Shack",
+    "model": "TRS-80 Model 1",
+    "mfg_model_number": "26-1001",
+    "serial": "065806",
+    "description": "26-1001 4K with Level 1 BASIC",
+    "status": "in repair",
+    "references": [""],
+  },
+
+  {
+    "manufacturer": "Radio Shack",
+    "model": "TRS-80 Color Computer",
+    "mfg_model_number": "26-3002",
+    "serial": "0002612",
+    "description": "",
+    "status": "working",
+    "references": [""],
+  }
+]
