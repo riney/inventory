@@ -1,0 +1,79 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>ivnentory</title>
+    <meta name="description" content="Inventory">
+    <meta name="author" content="John Riney">
+
+    <link rel="stylesheet" href="pure-min.css">
+    <link rel="stylesheet" href="inventory.css">
+</head>
+
+<body>
+    <div id="container">
+        <table class="pure-table pure-table-horizontal pure-table-striped" id="inventory_table">
+            <thead>
+                <tr>
+                    <th>Manufacturer</th>
+                    <th>Model</th>
+                    <th>Description</th>
+                    <th>Status</th>
+                    <th>Faults</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script lang="javascript">
+        function parse() {
+            fetch("./inventory.json")
+                .then(response => response.json())
+                .then(data => process(data));
+        }
+
+        function process(data) {
+            buildTableRows(data);
+            buildStatsRow(data);
+        }
+
+        function buildStatsRow(data) {
+            var table = document.getElementById("inventory_table");
+            var row = table.insertRow(-1);
+            var statsCell = row.insertCell(0);
+            statsCell.colSpan = 5;
+            statsCell.innerHTML = "Total items in collection: " + data.length;
+        }
+
+        function buildTableRows(data) {
+            var table = document.getElementById("inventory_table");
+
+            data.forEach(element => {
+                var row = table.insertRow(-1);
+        
+                var manufacturer = row.insertCell(0);
+                manufacturer.innerHTML = element["manufacturer"];
+                
+                var model = row.insertCell(1);
+                model.innerHTML = element["model"];
+
+                var description = row.insertCell(2);
+                description.innerHTML = element["description"];
+
+                var status = row.insertCell(3);
+                status.innerHTML = element["status"];
+                
+                var faults = row.insertCell(4);
+                faults.innerHTML = element["faults"] || "";
+            });
+        }
+
+        parse();
+    </script>
+</body>
+</html>

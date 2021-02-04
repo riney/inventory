@@ -4,10 +4,56 @@
     "model": "II+",
     "serial": "",
     "description": "48K + language card",
-    "status": "mostly working, occasional ram issues",
+    "status": "mostly working",
+    "faults": "occasional ram issues",
+    "references": []
+  },
+ 
+  {
+    "manufacturer": "Apple",
+    "model": "IIe",
+    "serial": "",
+    "description": "unenhanced",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Apple",
+    "model": "IIe (Platinum)",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Apple",
+    "model": "IIc",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Apple",
+    "model": "IIgs",
+    "serial": "",
+    "description": "4M ram upgrade",
+    "status": "working",
     "references": []
   },
   
+  {
+    "manufacturer": "Apple",
+    "model": "Power Macintosh 7200/120",
+    "serial": "",
+    "description": "maxed RAM, cache, trick graphics card (can do 1080p)",
+    "status": "working",
+    "references": []
+  },
+
   {
     "manufacturer": "Commodore",
     "model": "VIC 20",
@@ -37,13 +83,60 @@
 
   {
     "manufacturer": "Commodore",
+    "model": "Plus/4",
+    "serial": "",
+    "description": "CIB",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Commodore",
     "model": "16",
     "serial": "CA1135983",
     "description": "",
     "status": "in repair",
     "references": []
   },
-  
+
+  {
+    "manufacturer": "Commodore",
+    "model": "128",
+    "serial": "",
+    "description": "64K VDC RAM and JiffyDos",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Commodore",
+    "model": "128DCR",
+    "serial": "",
+    "description": "JiffyDos",
+    "status": "mostly working",
+    "faults": "1571 issues",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Commodore",
+    "model": "SX64",
+    "serial": "",
+    "description": "Repaired shipping damage to keyboard",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Commodore",
+    "model": "Amiga 500",
+    "serial": "",
+    "description": "",
+    "status": "mostly working",
+    "faults": "keyboard controller needs replaced",
+    "references": []
+  },
+
   {
     "manufacturer": "Radio Shack",
     "model": "TRS-80 Model 1",
@@ -56,11 +149,102 @@
 
   {
     "manufacturer": "Radio Shack",
-    "model": "TRS-80 Color Computer",
-    "mfg_model_number": "26-3002",
-    "serial": "0002612",
+    "model": "TRS-80 Model III",
+    "mfg_model_number": "26-1066",
+    "serial": "",
+    "description": "48K, dual drives",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Radio Shack",
+    "model": "TRS-80 Model 4p",
+    "mfg_model_number": "26-1080",
+    "serial": "",
     "description": "",
     "status": "working",
     "references": []
+  },
+
+  {
+    "manufacturer": "Radio Shack",
+    "model": "TRS-80 Model 100",
+    "mfg_model_number": "",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Radio Shack",
+    "model": "TRS-80 Model 102",
+    "mfg_model_number": "",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Radio Shack",
+    "model": "TRS-80 Color Computer",
+    "mfg_model_number": "26-3002",
+    "serial": "0002612",
+    "description": "early - black keyboard surround, chicklet keys",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Radio Shack",
+    "model": "TRS-80 Color Computer Model III",
+    "mfg_model_number": "",
+    "serial": "",
+    "description": "512k",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Radio Shack",
+    "model": "TRS-80 Micro Color Computer MC-10",
+    "mfg_model_number": "",
+    "serial": "",
+    "description": "CIB",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "HP",
+    "model": "Vectra XM2 4/66i",
+    "serial": "",
+    "description": "overdrive CPU, floppy controller for weird floppy creation",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Kaypro",
+    "model": "Kaypro II",
+    "serial": "",
+    "description": "",
+    "status": "mostly working",
+    "faults": "CRT needs adjustment",
+    "references": []
+  },
+
+  {
+    "manufacturer": "Osborne",
+    "model": "Osborne I",
+    "serial": "",
+    "description": "high-res upgrade and modem, external video mod",
+    "status": "working",
+    "references": []
   }
+
+
+
 ]
