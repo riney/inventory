@@ -4,7 +4,8 @@
     "model": "II+",
     "serial": "",
     "description": "48K + language card",
-    "status": "mostly working, occasional ram issues",
+    "status": "mostly working, occasional ram issues"
+    "references": []
   },
   
   {
@@ -13,7 +14,7 @@
     "serial": "P1009385",
     "description": "with 3K and 16K RAM cartridges and Datasette",
     "status": "working",
-    "references": [""],
+    "references": []
   },
   
   {
@@ -22,7 +23,7 @@
     "serial": "P5864075",
     "description": "Weird replacement white keyboard",
     "status": "working",
-    "references": [""],
+    "references": []
   },
   
   {
@@ -31,7 +32,7 @@
     "serial": "CA1527435",
     "description": "",
     "status": "working",
-    "references": [""],
+    "references": []
   },
 
   {
@@ -40,6 +41,7 @@
     "serial": "CA1135983",
     "description": "",
     "status": "in repair",
+    "references": []
   },
   
   {
@@ -49,7 +51,7 @@
     "serial": "065806",
     "description": "26-1001 4K with Level 1 BASIC",
     "status": "in repair",
-    "references": [""],
+    "references": []
   },
 
   {
@@ -59,6 +61,6 @@
     "serial": "0002612",
     "description": "",
     "status": "working",
-    "references": [""],
+    "references": []
   }
 ]
