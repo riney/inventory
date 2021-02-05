@@ -1,5 +1,36 @@
 [
   {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Atari",
+    "model": "Portfolio",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
+    "manufacturer": "Atari",
+    "model": "800XL",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
+    "manufacturer": "Atari",
+    "model": "Mega ST 2",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
     "manufacturer": "Apple",
     "model": "II+",
     "serial": "",
@@ -10,6 +41,7 @@
   },
  
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Apple",
     "model": "IIe",
     "serial": "",
@@ -19,6 +51,7 @@
   },
 
   {
+    "location": "deep_archives",
     "manufacturer": "Apple",
     "model": "IIe (Platinum)",
     "serial": "",
@@ -28,6 +61,7 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Apple",
     "model": "IIc",
     "serial": "",
@@ -37,6 +71,7 @@
   },
 
   {
+    "location": "deep_archives",
     "manufacturer": "Apple",
     "model": "IIgs",
     "serial": "",
@@ -46,6 +81,110 @@
   },
   
   {
+    "location": "deep_archives",
+    "manufacturer": "Apple",
+    "model": "Macintosh Plus",
+    "serial": "",
+    "description": "Scotty spec (platinum, extended keyboard, etc.)",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
+    "manufacturer": "Apple",
+    "model": "Macintosh IIsi",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
+    "model": "Macintosh SE prototype (Aladdin)",
+    "serial": "",
+    "description": "Rodime HD, prototype analog board, weird greenish screen. No original logic board - fitted with SE board",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
+    "model": "Macintosh SE",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
+    "model": "Macintosh SE/30",
+    "serial": "",
+    "description": "Boots funny, needs ROM SIMM replacement",
+    "status": "mostly working",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
+    "manufacturer": "Apple",
+    "model": "Macintosh LC II",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
+    "manufacturer": "Apple",
+    "model": "Powerbook 180",
+    "serial": "",
+    "description": "SD2SCSI HD replacement",
+    "status": "mostly working",
+    "faults": "monochrome TFT tunneling",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
+    "model": "Powerbook 180",
+    "serial": "",
+    "description": "original HD",
+    "status": "mostly working",
+    "faults": "monochrome TFT tunneling",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
+    "model": "Powerbook 180c",
+    "serial": "",
+    "description": "original HD",
+    "status": "in repair",
+    "faults": "extreme screen troubles, needs recap",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
+    "model": "Lisa 2/10",
+    "serial": "",
+    "description": "",
+    "status": "in repair",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
     "manufacturer": "Apple",
     "model": "Power Macintosh 7200/120",
     "serial": "",
@@ -55,6 +194,37 @@
   },
 
   {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
+    "model": "iMac G4 15",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
+    "model": "Powerbook G3",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
+    "model": "Powerbook G3",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
     "manufacturer": "Commodore",
     "model": "VIC 20",
     "serial": "P1009385",
@@ -64,6 +234,7 @@
   },
   
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Commodore",
     "model": "64",
     "serial": "P5864075",
@@ -73,6 +244,7 @@
   },
   
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Commodore",
     "model": "64C",
     "serial": "CA1527435",
@@ -82,6 +254,7 @@
   },
 
   {
+    "location": "deep_archives",
     "manufacturer": "Commodore",
     "model": "Plus/4",
     "serial": "",
@@ -91,6 +264,7 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Commodore",
     "model": "16",
     "serial": "CA1135983",
@@ -100,6 +274,7 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Commodore",
     "model": "128",
     "serial": "",
@@ -109,6 +284,7 @@
   },
 
   {
+    "location": "deep_archives",
     "manufacturer": "Commodore",
     "model": "128DCR",
     "serial": "",
@@ -119,6 +295,7 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Commodore",
     "model": "SX64",
     "serial": "",
@@ -128,6 +305,7 @@
   },
 
   {
+    "location": "deep_archives",
     "manufacturer": "Commodore",
     "model": "Amiga 500",
     "serial": "",
@@ -138,6 +316,29 @@
   },
 
   {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Commodore",
+    "model": "B128-80",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "faults": "",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Convergent Systems",
+    "model": "CP-001/9",
+    "serial": "",
+    "description": "w/Burroughs display, keyboard, and power supply",
+    "status": "unknown",
+    "faults": "no power cord",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
     "manufacturer": "Radio Shack",
     "model": "TRS-80 Model 1",
     "mfg_model_number": "26-1001",
@@ -148,6 +349,7 @@
   },
 
   {
+    "location": "deep_archives",
     "manufacturer": "Radio Shack",
     "model": "TRS-80 Model III",
     "mfg_model_number": "26-1066",
@@ -158,6 +360,7 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Radio Shack",
     "model": "TRS-80 Model 4p",
     "mfg_model_number": "26-1080",
@@ -168,6 +371,7 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Radio Shack",
     "model": "TRS-80 Model 100",
     "mfg_model_number": "",
@@ -178,6 +382,7 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Radio Shack",
     "model": "TRS-80 Model 102",
     "mfg_model_number": "",
@@ -188,6 +393,7 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Radio Shack",
     "model": "TRS-80 Color Computer",
     "mfg_model_number": "26-3002",
@@ -198,6 +404,7 @@
   },
 
   {
+    "location": "deep_archives",
     "manufacturer": "Radio Shack",
     "model": "TRS-80 Color Computer Model III",
     "mfg_model_number": "",
@@ -208,6 +415,7 @@
   },
 
   {
+    "location": "deep_archives",
     "manufacturer": "Radio Shack",
     "model": "TRS-80 Micro Color Computer MC-10",
     "mfg_model_number": "",
@@ -218,6 +426,7 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "HP",
     "model": "Vectra XM2 4/66i",
     "serial": "",
@@ -227,6 +436,28 @@
   },
 
   {
+    "location": "thirdnerd_hq",
+    "manufacturer": "HP",
+    "model": "HP-100LX",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+  
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Grid",
+    "model": "Gridcase 3",
+    "serial": "",
+    "description": "",
+    "status": "mostly working",
+    "faults": "HD fail - needs EPROM DOS burned/installed",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
     "manufacturer": "Kaypro",
     "model": "Kaypro II",
     "serial": "",
@@ -237,13 +468,167 @@
   },
 
   {
+    "location": "thirdnerd_hq",
     "manufacturer": "Osborne",
     "model": "Osborne I",
     "serial": "",
     "description": "high-res upgrade and modem, external video mod",
     "status": "working",
     "references": []
+  },
+
+  {
+    "location": "homestead",
+    "manufacturer": "DEC",
+    "model": "MicroVAX 3400",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "DEC",
+    "model": "VAXStation 4000 VLC",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "IBM",
+    "model": "P75",
+    "serial": "",
+    "description": "",
+    "status": "mostly working",
+    "faults": "floppy drive needs recap, occasional screen issues",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "IBM",
+    "model": "PS/2 Model 25",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+  
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Microbee",
+    "model": "Series 3 64K Dynamic",
+    "serial": "",
+    "description": "w/monitor",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Panasonic",
+    "model": "FS-A1WX",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Tandy",
+    "model": "Tandy TRS-80 Model 2000",
+    "serial": "",
+    "description": "",
+    "status": "in repair",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
+    "manufacturer": "Texas Instruments",
+    "model": "TI 99/4a",
+    "serial": "",
+    "description": "w/PEB, memory expansion, serial, floppy, speech synth, etc.",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
+    "manufacturer": "Timex/Sinclair",
+    "model": "1000",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
+    "manufacturer": "Timex/Sinclair",
+    "model": "2068",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Sinclair",
+    "model": "ZX Spectrum 128",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Sun Microsystems",
+    "model": "SPARCStation 20",
+    "serial": "",
+    "description": "dual 150mhz Ross HyperSPARCs, 256mb ram",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Sun Microsystems",
+    "model": "SPARCStation 20",
+    "serial": "",
+    "description": "dual 60mhz TI SuperSPARCs, 180mb ram",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Toshiba",
+    "model": "Satellite T5100",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "unknown",
+    "manufacturer": "Toshiba",
+    "model": "Portege 3480?CT",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
   }
+
+
 
 
 

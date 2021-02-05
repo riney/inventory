@@ -19,9 +19,10 @@
                 <tr>
                     <th>Manufacturer</th>
                     <th>Model</th>
-                    <th>Description</th>
+                    <th>Serial</th>
                     <th>Status</th>
                     <th>Faults</th>
+                    <th>Description</th>
                 </tr>
             </thead>
             <tbody>
@@ -65,15 +66,18 @@
                 
                 var model = row.insertCell(1);
                 model.innerHTML = element["model"];
-
-                var description = row.insertCell(2);
-                description.innerHTML = element["description"];
+                
+                var serial = row.insertCell(2);
+                serial.innerHTML = element["serial"] || "";
 
                 var status = row.insertCell(3);
                 status.innerHTML = element["status"];
                 
                 var faults = row.insertCell(4);
                 faults.innerHTML = element["faults"] || "";
+                
+                var description = row.insertCell(5);
+                description.innerHTML = element["description"] || "";
             });
         }
 
