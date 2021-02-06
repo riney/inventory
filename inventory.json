@@ -186,6 +186,16 @@
   {
     "location": "thirdnerd_hq",
     "manufacturer": "Apple",
+    "model": "Performa 6116CD",
+    "serial": "",
+    "description": "",
+    "status": "working",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Apple",
     "model": "Power Macintosh 7200/120",
     "serial": "",
     "description": "maxed RAM, cache, trick graphics card (can do 1080p)",
@@ -334,6 +344,27 @@
     "description": "w/Burroughs display, keyboard, and power supply",
     "status": "unknown",
     "faults": "no power cord",
+    "references": []
+  },
+
+  {
+    "location": "deep_archives",
+    "manufacturer": "Intergraph",
+    "model": "Interpro (num)",
+    "serial": "",
+    "description": "",
+    "status": "boots from floppy; screen convergence issues",
+    "references": []
+  },
+
+  {
+    "location": "thirdnerd_hq",
+    "manufacturer": "Morrow Designs",
+    "model": "Micro Decision",
+    "serial": "34-2547.5",
+    "description": "California-made CP/M machine w/serial terminal and 3 disk drives",
+    "status": "in repair",
+    "faults": "DOA",
     "references": []
   },
 
